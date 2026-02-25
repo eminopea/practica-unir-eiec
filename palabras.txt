@@ -1,0 +1,6 @@
+zorro
+manzana
+perro
+gato
+banana
+elefante
