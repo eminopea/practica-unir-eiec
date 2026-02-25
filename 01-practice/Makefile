@@ -1,2 +1,2 @@
 run:
-	py feature-translate.py palabras.txt
+	py feature-sorted.py palabras.txt
